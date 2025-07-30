@@ -471,15 +471,15 @@ export default function HomePage() {
               <div className="space-y-2">
                 <div className="flex items-center">
                   <Phone className="h-4 w-4 text-teal-400 mr-2" />
-                  <span className="text-gray-400">(555) 123-4567</span>
+                  <span className="text-gray-400">+1 437-982-0419</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-4 w-4 text-teal-400 mr-2" />
-                  <span className="text-gray-400">info@jcvcontracting.com</span>
+                  <span className="text-gray-400">jezreelcapsuyen@gmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-4 w-4 text-teal-400 mr-2" />
-                  <span className="text-gray-400">Your City, State</span>
+                  <span className="text-gray-400">Toronto, ON, Canada, Ontario</span>
                 </div>
               </div>
             </div>
