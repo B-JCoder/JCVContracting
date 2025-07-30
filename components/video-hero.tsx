@@ -7,7 +7,7 @@ export default function VideoHero() {
   return (
     <section className="relative h-screen flex items-center justify-center overflow-hidden">
       <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover z-0">
-        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/reel3-duVnEiIsFJBCHnIu4GngJNg73lW5uQ.mp4" type="video/mp4" />
+        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/reelone-b8ULzE7RoVIEp66375bCm1Zc51U2yQ.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="absolute inset-0 bg-black/50 z-10"></div>
